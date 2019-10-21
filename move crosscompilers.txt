@@ -1,0 +1,14 @@
+
+mv /root/cross-compiler-mips /root/Cross-Compilers/
+mv /root/cross-compiler-mipsel /root/Cross-Compilers/
+mv /root/cross-compiler-powerpc /root/Cross-Compilers/
+mv /root/cross-compiler-armv5l /root/Cross-Compilers/
+mv /root/cross-compiler-armv6l /root/Cross-Compilers/
+mv /root/cross-compiler-powerpc-440fp /root/Cross-Compilers/
+mv /root/cross-compiler-i586 /root/Cross-Compilers/
+mv /root/cross-compiler-sh4 /root/Cross-Compilers/
+mv /root/cross-compiler-i686 /root/Cross-Compilers/
+mv /root/cross-compiler-sparc /root/Cross-Compilers/
+mv /root/cross-compiler-m68k /root/Cross-Compilers/
+mv /root/cross-compiler-x86_64 /root/Cross-Compilers/
+mv /root/cross-compiler-armv4l /root/Cross-Compilers/

