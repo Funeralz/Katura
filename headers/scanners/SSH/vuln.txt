@@ -1,0 +1,282 @@
+root:admin:92.127.255.10
+root:admin:90.189.247.179
+root:admin:2.60.91.139
+support:support:94.50.168.126
+support:support:90.189.187.107
+support:support:90.151.46.160
+admin:admin:59.181.96.189
+DUP admin:12345:101.109.146.69
+admin:admin:101.109.146.69
+usuario:usuario:190.214.94.156
+usuario:usuario:181.196.83.240
+root:root:2.191.55.224
+usuario:usuario:190.214.204.40
+usuario:usuario:190.214.112.24
+usuario:usuario:181.112.6.71
+DUP admin:12345:201.221.134.114
+admin:admin:201.221.134.114
+usuario:usuario:190.214.90.86
+usuario:usuario:181.196.81.155
+usuario:usuario:181.112.16.121
+root:root:122.164.228.144
+usuario:usuario:181.113.93.253
+usuario:usuario:181.211.94.90
+usuario:usuario:181.211.226.242
+ubnt:ubnt:85.15.183.178
+root:admin:212.20.8.7
+user:user:5.137.167.155
+user:user:92.127.227.175
+DUP user:user:37.76.147.16
+support:support:37.76.147.16
+user:user:212.164.10.103
+DUP admin:1234:31.162.45.216
+DUP user:user:31.162.45.216
+support:support:31.162.45.216
+root:admin:90.189.247.179
+DUP support:support:90.150.90.83
+admin:admin:90.150.90.83
+admin:admin:59.181.170.2
+admin:admin:213.155.208.60
+DUP user:user:94.50.190.195
+DUP support:support:94.50.190.195
+admin:admin:94.50.190.195
+admin:admin:120.61.199.79
+usuario:usuario:186.178.13.171
+usuario:usuario:181.113.188.53
+usuario:usuario:181.112.1.230
+usuario:usuario:181.196.173.117
+admin:admin:122.160.37.19
+usuario:usuario:190.214.113.177
+usuario:usuario:190.214.68.157
+usuario:usuario:190.152.138.90
+usuario:usuario:190.152.104.50
+usuario:usuario:190.152.140.179
+user:user:90.189.235.158
+usuario:usuario:181.113.180.184
+usuario:usuario:181.113.189.7
+DUP support:support:2.60.107.132
+admin:admin:2.60.107.132
+root:root:181.65.14.89
+usuario:usuario:181.211.156.251
+user:user:5.137.207.105
+DUP support:support:93.124.22.76
+admin:admin:93.124.22.76
+admin:admin:182.56.205.221
+admin:admin:37.20.239.157
+admin:admin:5.138.77.26
+user:user:5.137.168.41
+root:admin:2.60.82.49
+usuario:usuario:181.211.171.61
+DUP admin:1234:95.55.199.249
+DUP admin:12345:95.55.199.249
+admin:admin:95.55.199.249
+support:support:2.60.115.142
+user:user:212.164.15.163
+DUP support:support:95.37.255.76
+admin:admin:95.37.255.76
+usuario:usuario:181.211.171.60
+usuario:usuario:190.214.228.71
+DUP user:user:31.163.248.227
+DUP support:support:31.163.248.227
+admin:admin:31.163.248.227
+DUP user:user:31.162.61.230
+support:support:31.162.61.230
+root:admin:2.60.91.139
+admin:admin:95.81.242.185
+root:root:151.235.135.65
+admin:admin:122.160.20.20
+DUP user:user:37.76.135.62
+support:support:37.76.135.62
+usuario:usuario:190.214.207.109
+user:user:90.189.174.88
+admin:admin:122.170.1.115
+admin:12345:2.63.76.212
+usuario:usuario:186.178.190.62
+admin:admin:182.56.133.79
+usuario:usuario:200.107.27.246
+root:root:120.60.40.16
+user:user:90.189.253.123
+user:user:2.62.171.60
+usuario:usuario:190.214.171.124
+usuario:usuario:200.77.191.2
+admin:admin:122.160.3.145
+user:user:5.137.144.40
+DUP admin:1234:31.162.38.222
+DUP user:user:31.162.38.222
+support:support:31.162.38.222
+user:user:5.137.139.92
+DUP user:user:94.50.168.126
+support:support:94.50.168.126
+user:user:90.189.237.88
+user:user:5.136.84.43
+admin:admin:31.163.228.176
+DUP user:user:90.150.214.66
+DUP support:support:90.150.214.66
+admin:12345:90.150.214.66
+root:root:188.210.114.154
+user:user:95.191.144.152
+DUP admin:1234:101.109.18.52
+DUP admin:12345:101.109.18.52
+admin:admin:101.109.18.52
+user:user:5.137.196.231
+user:user:213.228.97.140
+DUP admin:1234:37.76.130.65
+DUP user:user:37.76.130.65
+support:support:37.76.130.65
+usuario:usuario:186.47.218.47
+DUP admin:1234:101.109.152.72
+DUP admin:12345:101.109.152.72
+admin:admin:101.109.152.72
+admin:admin:122.178.14.204
+DUP support:support:92.126.28.198
+admin:admin:92.126.28.198
+user:user:92.127.244.201
+user:user:213.228.102.146
+DUP admin:1234:101.109.157.244
+DUP admin:12345:101.109.157.244
+admin:admin:101.109.157.244
+support:support:95.189.58.190
+root:root:181.67.29.42
+admin:admin:122.170.109.33
+DUP support:support:95.190.65.149
+admin:admin:95.190.65.149
+usuario:usuario:181.112.99.51
+admin:admin:122.170.14.118
+support:support:37.23.178.162
+user:user:89.109.12.124
+ubnt:ubnt:85.15.183.178
+usuario:usuario:181.211.172.252
+user:user:5.137.136.80
+support:support:95.188.186.117
+root:admin:92.127.251.213
+DUP support:support:95.68.196.90
+admin:admin:95.68.196.90
+user:user:95.190.140.46
+user:user:92.125.132.100
+DUP support:support:77.40.89.5
+admin:admin:77.40.89.5
+user:user:92.127.143.61
+user:user:212.164.49.238
+DUP admin:1234:101.109.150.212
+DUP admin:12345:101.109.150.212
+admin:admin:101.109.150.212
+DUP support:support:94.50.254.192
+admin:admin:94.50.254.192
+user:user:212.20.37.49
+user:user:37.20.238.191
+usuario:usuario:190.214.91.50
+admin:admin:122.160.82.96
+admin:admin:122.166.2.215
+user:user:212.164.155.17
+usuario:usuario:181.113.178.110
+admin:admin:5.141.246.19
+admin:admin:2.177.189.107
+usuario:usuario:190.152.138.57
+usuario:usuario:181.113.175.156
+DUP admin:1234:101.109.13.106
+DUP admin:12345:101.109.13.106
+admin:admin:101.109.13.106
+usuario:usuario:181.113.164.99
+user:user:90.189.249.215
+user:user:92.127.181.133
+usuario:usuario:181.211.203.18
+usuario:usuario:181.196.211.163
+usuario:usuario:181.211.174.88
+DUP support:support:94.241.214.239
+admin:admin:94.241.214.239
+admin:admin:122.161.220.117
+root:admin:212.164.168.159
+root:admin:92.127.234.197
+user:user:90.189.186.84
+support:support:95.68.136.61
+admin:admin:122.160.32.148
+admin:admin:59.181.130.173
+DUP admin:1234:101.109.146.12
+DUP admin:12345:101.109.146.12
+admin:admin:101.109.146.12
+usuario:usuario:186.178.190.14
+usuario:usuario:190.214.67.47
+usuario:usuario:181.211.18.9
+support:support:95.188.17.151
+DUP support:support:95.152.26.132
+admin:admin:95.152.26.132
+support:support:95.189.14.13
+support:support:90.189.187.107
+user:user:94.78.201.180
+usuario:usuario:181.196.164.183
+support:support:95.190.122.81
+root:root:80.234.106.218
+admin:admin:122.170.111.145
+support:support:95.81.194.16
+usuario:usuario:181.211.226.242
+DUP support:support:80.234.27.186
+admin:admin:80.234.27.186
+DUP user:user:31.163.249.250
+support:support:31.163.249.250
+root:root:2.191.41.157
+DUP support:support:37.76.133.253
+admin:admin:37.76.133.253
+user:user:95.83.24.192
+user:user:37.21.103.20
+user:user:95.191.146.15
+DUP support:support:88.200.191.146
+admin:admin:88.200.191.146
+user:user:212.164.41.236
+support:support:95.37.202.215
+support:support:95.188.218.132
+user:user:90.189.227.95
+usuario:usuario:200.77.191.55
+usuario:usuario:181.211.154.141
+admin:admin:182.58.131.136
+usuario:usuario:181.211.232.252
+usuario:usuario:181.211.94.206
+admin:admin:122.166.246.101
+user:user:94.78.204.190
+user:user:2.62.26.249
+user:user:92.127.223.47
+DUP user:user:37.76.146.58
+support:support:37.76.146.58
+usuario:usuario:181.113.175.122
+usuario:usuario:190.214.173.216
+DUP admin:1234:186.46.128.10
+DUP admin:12345:186.46.128.10
+admin:admin:186.46.128.10
+usuario:usuario:181.113.173.142
+DUP support:support:95.71.254.61
+admin:admin:95.71.254.61
+user:user:5.137.120.38
+DUP user:user:31.163.239.196
+support:support:31.163.239.196
+root:admin:95.191.164.242
+support:support:94.233.206.65
+root:root:181.66.75.204
+DUP user:user:5.140.177.121
+DUP support:support:5.140.177.121
+admin:admin:5.140.177.121
+usuario:usuario:200.73.207.123
+DUP user:user:95.71.201.198
+DUP support:support:95.71.201.198
+admin:admin:95.71.201.198
+usuario:usuario:181.196.172.188
+support:support:94.50.249.157
+user:user:92.127.133.235
+usuario:usuario:181.211.88.123
+DUP support:support:95.190.138.114
+admin:admin:95.190.138.114
+admin:admin:122.160.74.33
+DUP user:user:37.79.251.91
+DUP support:support:37.79.251.91
+admin:admin:37.79.251.91
+user:user:212.164.148.64
+DUP admin:1234:101.109.158.140
+DUP admin:12345:101.109.158.140
+admin:admin:101.109.158.140
+usuario:usuario:181.196.86.230
+usuario:usuario:181.196.81.155
+usuario:usuario:190.152.197.150
+admin:admin:95.188.192.147
+DUP user:user:37.79.251.20
+DUP support:support:37.79.251.20
+admin:admin:37.79.251.20
+admin:admin:122.170.105.90
+usuario:usuario:190.214.211.133
